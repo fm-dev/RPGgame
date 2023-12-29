@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"battlerName":"udin","characterIndex":0,"characterName":"udin","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"udin","traits":[],"initialLevel":1,"maxLevel":99,"name":"udin","nickname":"udin","note":"","profile":""},
-{"id":2,"battlerName":"bapak_kepaladesa","characterIndex":0,"characterName":"bapak_kepaladesa","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Bapak_kepaladesa","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bapak Kepala desaa","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"udin","characterIndex":0,"characterName":"udin","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"udin","traits":[],"initialLevel":1,"maxLevel":99,"name":"udin","nickname":"udin","note":"<xAnima:Reid>","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"bapak_kepaladesa","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Bapak_kepaladesa","traits":[],"initialLevel":1,"maxLevel":99,"name":"kepala_desa","nickname":"","note":"","profile":""}
 ]
