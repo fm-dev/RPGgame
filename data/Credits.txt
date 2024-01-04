@@ -1,0 +1,28 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-1,10,10,offbot,center,kapitan-pattimura>
+CREDITS
+
+\c[2]Engine
+RPG Maker MV
+
+\c[2]Plugin Programmer
+Galv
+Yanfly
+ABSZ
+
+
+\c[2]Design
+Fajri
+
+\c[2]Script Scenario
+Fajri
+
+\c[2]Script Scenario
+Fajri
+
+\c[2]Thanks
+All my supporters
+</block>
+
